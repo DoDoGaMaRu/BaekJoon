@@ -31,6 +31,7 @@ public class _1759 {
             if (count == len) {
                 if (ja >= 2 && mo >= 1) {
 
+
                     print();
                 }
             }
