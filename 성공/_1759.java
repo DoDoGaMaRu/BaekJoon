@@ -30,6 +30,7 @@ public class _1759 {
         if (idx == arr.length) {
             if (count == len) {
                 if (ja >= 2 && mo >= 1) {
+
                     print();
                 }
             }
