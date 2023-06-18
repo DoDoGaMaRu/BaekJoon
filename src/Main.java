@@ -13,6 +13,9 @@ public class Main {
         int n = Integer.parseInt(set[0]);
         int m = Integer.parseInt(set[1]);
 
+
+
+
         set = br.readLine().split(" ");
         int[] arr = new int[set.length];
         for (int i=0; i<set.length; i++) arr[i] = Integer.parseInt(set[i]);
